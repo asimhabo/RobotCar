@@ -1,2 +1,2 @@
 # RobotCar
-Making Robot which is controlled via Bluetooth and adjusts its own speed according to the leading of objects also by sensing the traffic lights does movements supposed to do so that it is suitable usage in traffic with Ardunio
+Making Robot which is controlled via Bluetooth and adjusts its own speed according to the leading objects also by sensing the traffic lights it moves appropriately  to usage in traffic with Ardunio
